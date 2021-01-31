@@ -1,0 +1,10 @@
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csprojAssemblyReference.cache
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.Form1.resources
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.Properties.Resources.resources
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csproj.GenerateResource.cache
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.csproj.CoreCompileInputs.cache
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\bin\Debug\AsciiArt.exe.config
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\bin\Debug\AsciiArt.exe
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\bin\Debug\AsciiArt.pdb
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.exe
+C:\Users\tonip\Desktop\programming\c#\AsciiArt\AsciiArt\obj\Debug\AsciiArt.pdb
