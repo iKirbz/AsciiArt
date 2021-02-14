@@ -60,8 +60,8 @@ namespace AsciiArt
 
         public static class BmpToAscii
         {
-            private static int tileSizeHeight = 6;
-            private static int tileSizeWidth = 3;
+            private static int tileSizeHeight = 10;
+            private static int tileSizeWidth = 5;
 
             private enum BrightnessMap
             {
@@ -152,18 +152,18 @@ namespace AsciiArt
             {
                 if (asciiArt == null) return "";
 
-                string shit = "";
+                StringBuilder shit = new StringBuilder();
 
                 for (int x = 0; x < asciiArt.GetLength(1); x++)
                 {
                     for (int y = 0; y < asciiArt.GetLength(0); y++)
                     {
-                        shit += asciiArt[y, x];
+                        shit.Append(asciiArt[y, x]);
                     }
-                    shit += "\n";
+                    shit.Append("\n");
                 }
 
-                return shit;
+                return shit.ToString();
             }
         }
     }
